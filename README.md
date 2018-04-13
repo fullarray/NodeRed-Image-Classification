@@ -1,10 +1,11 @@
-# NodeRed Image Classification
+# NodeRed Classification
 Experimenting with image classification
 
-#Node
+# Node
 Make sure the latest version of nodejs is installed
+>$ npm --version
 
-#NodeRed
+# NodeRed
 Make sure you have downloaded and installed the nodeRed package
 >$ npm install (nodered)
 
@@ -12,4 +13,4 @@ Make sure you have downloaded and installed the nodeRed package
 Pull the repo into your machine
 
 # Change to the app root directory.
-run npm install
+>$ run npm install
