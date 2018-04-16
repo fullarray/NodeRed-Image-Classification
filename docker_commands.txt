@@ -17,6 +17,7 @@
 > npm install node-red-contrib-chatbot
 or npm install node-red-bluemix-nodes
 or npm install node-red-node-watson
+or npm install node-red-contrib-ibm-watson-iot
 > exit
 
 6. ### Restart the container to load the new nodes
