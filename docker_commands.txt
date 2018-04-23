@@ -25,7 +25,6 @@ or npm install node-red-contrib-ibm-watson-iot
 ...> docker start mynodered
 
 # The below is not necessary, it's for representation only
-
 1. # Start docker
 ...> docker start app1
 
