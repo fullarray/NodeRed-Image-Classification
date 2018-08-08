@@ -4,7 +4,7 @@
 > docker run -it -p 1880:1880 --name app1 nodered/node-red-docker
 
 2. ### Access it
-> http://{virtualbox_localhost_ip}:1880
+> http://{virtualbox_or_vmware_localhost_ip}:1880
 
 3. ### Run container in background
 > docker deattach mynodered
