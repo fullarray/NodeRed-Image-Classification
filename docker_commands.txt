@@ -1,6 +1,6 @@
 # Docker and NodeRed Personal reference sheet
 
-1. ### Install container
+1. ### Install containers
 > docker run -it -p 1880:1880 --name app1 nodered/node-red-docker
 
 2. ### Access it
